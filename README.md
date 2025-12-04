@@ -1,16 +1,40 @@
 ## Hi there 👋
 
 <!--
-**Milamoo12340/Milamoo12340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Milamoo12340** # Welcome to Milamoo12340's GitHub!
 
-Here are some ideas to get you started:
+Hello! I'm Milamoo12340, and this is my little corner of GitHub. Here you'll find my projects, contributions, and more. Feel free to explore and reach out if you have any questions!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## My GitHub Apps
+
+Check out some of my GitHub apps below:
+
+<Embed
+  html={false}
+  url="https://github.com/Milamoo12340/your-app-repo"
+  title="My Awesome App"
+  favicon="https://github.com/favicon.ico"
+  image="https://avatars.githubusercontent.com/u/your-app-image"
+/>
+
+<Embed
+  html={false}
+  url="https://github.com/Milamoo12340/another-app-repo"
+  title="Another Cool App"
+  favicon="https://github.com/favicon.ico"
+  image="https://avatars.githubusercontent.com/u/another-app-image"
+/>
+
+## Support My Work
+
+If you like what I do and want to support my work, consider sponsoring me!
+
+<iframe src="https://github.com/sponsors/jqcwhw/card" title="Sponsor jqcwhw" height="225" width="600" style="border: 0;"></iframe>
+
+## Connect with Me
+
+Feel free to connect with me on GitHub or check out my other projects. I'm always open to collaboration and feedback!
+
+Happy coding! 🚀
+
 -->
