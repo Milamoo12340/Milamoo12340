@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Milamoo12340** # Welcome to Milamoo12340's GitHub!
 
 Hello! I'm Milamoo12340, and this is my little corner of GitHub. Here you'll find my projects, contributions, and more. Feel free to explore and reach out if you have any questions!
@@ -11,15 +10,14 @@ Check out some of my GitHub apps below:
 
 <Embed
   html={false}
-  url="https://github.com/Milamoo12340/your-app-repo"
+url="https://github.com/Milamoo12340/your-app-repo"
   title="My Awesome App"
-  favicon="https://github.com/favicon.ico"
-  image="https://avatars.githubusercontent.com/u/your-app-image"
+favicon="https://github.com/favicon.ico"  image="https://avatars.githubusercontent.com/u/your-app-image"
 />
 
 <Embed
   html={false}
-  url="https://github.com/Milamoo12340/another-app-repo"
+  url="https://github.com/Milamoo12340/osrs hub"
   title="Another Cool App"
   favicon="https://github.com/favicon.ico"
   image="https://avatars.githubusercontent.com/u/another-app-image"
@@ -29,7 +27,7 @@ Check out some of my GitHub apps below:
 
 If you like what I do and want to support my work, consider sponsoring me!
 
-<iframe src="https://github.com/sponsors/jqcwhw/card" title="Sponsor jqcwhw" height="225" width="600" style="border: 0;"></iframe>
+"https://github.com/sponsors/jqcwhw/card"
 
 ## Connect with Me
 
@@ -37,4 +35,3 @@ Feel free to connect with me on GitHub or check out my other projects. I'm alway
 
 Happy coding! 🚀
 
--->
