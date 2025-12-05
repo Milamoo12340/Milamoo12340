@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Milamoo12340** # Welcome to Milamoo12340's GitHub!
+**Welcome to Milamoo12340's GitHub!**
 
 Hello! I'm Milamoo12340, and this is my little corner of GitHub. Here you'll find my projects, contributions, and more. Feel free to explore and reach out if you have any questions!
 
