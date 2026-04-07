@@ -35,3 +35,12 @@ Feel free to connect with me on GitHub or check out my other projects. I'm alway
 
 Happy coding! 🚀
 
+---
+
+## 🤖 Virelai — My Personal AI Superagent
+
+> Built on [Base44](https://app.base44.com) — handles PS99 intelligence, repo fixes, Discord bots, and more
+
+- 💬 **Chat:** https://app.base44.com/superagent/69c2415c0f74b28eb1ba3ed0
+- 📊 **PS99 Dashboard:** https://virelai-app-7cf874fa.base44.app
+- Runs **hourly PS99 leak scans**, maintains my repos, powers my Discord bot
