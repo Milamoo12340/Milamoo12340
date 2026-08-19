@@ -22,6 +22,9 @@ Ebay Antique Spotter (upload screenshots find worth and values) -- https://antiq
 Vorai, A Special Test Project (integrates CIA declassifed techniques to integrate with you personally) -- https://vor-a62cb061.base44.app
 Quick Solve Maths Homework -- https://ai-problem-solver.base44.app
 
+
+![GitHub Sponsors](https://img.shields.io/github.com/sponsors/Milamoo12340/card?style=for-the-badge&logo=blue&logoColor=purple&logoSize=auto&labelColor=hotpink&color=lime)
+
 <Embed
   html={false}
 url="https://github.com/Milamoo12340/your-app-repo"
