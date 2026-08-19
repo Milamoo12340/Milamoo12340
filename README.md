@@ -1,3 +1,6 @@
+![GitHub Sponsors](https://img.shields.io/github/sponsors/Milamoo12340?style=for-the-badge&logo=blue&logoColor=purple&logoSize=auto&labelColor=hotpink&color=lime)
+
+
 ## Hi there 👋
 
 **Welcome to Milamoo12340's GitHub!**
@@ -34,11 +37,6 @@ favicon="https://github.com/favicon.ico"  image="https://avatars.githubuserconte
   image="https://avatars.githubusercontent.com/u/another-app-image"
 />
 
-## Support My Work
-
-If you like what I do and want to support my work, consider sponsoring me!
-
-<iframe src="https://github.com/sponsors/Milamoo12340/card" title="Sponsor Milamoo12340" height="225" width="600" style="border: 0;"></iframe>
 
 ## Connect with Me
 
