@@ -23,7 +23,7 @@ Vorai, A Special Test Project (integrates CIA declassifed techniques to integrat
 Quick Solve Maths Homework -- https://ai-problem-solver.base44.app
 
 
-![GitHub Sponsors](https://img.shields.io/github.com/sponsors/Milamoo12340?style=for-the-badge&logo=blue&logoColor=purple&logoSize=auto&labelColor=hotpink&color=lime)
+
 
 <Embed
   html={false}
