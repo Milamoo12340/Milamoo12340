@@ -38,7 +38,7 @@ favicon="https://github.com/favicon.ico"  image="https://avatars.githubuserconte
 
 If you like what I do and want to support my work, consider sponsoring me!
 
-"https://github.com/sponsors/jqcwhw/card"
+<iframe src="https://github.com/sponsors/Milamoo12340/card" title="Sponsor Milamoo12340" height="225" width="600" style="border: 0;"></iframe>
 
 ## Connect with Me
 
