@@ -12,7 +12,7 @@ Hello! I'm Milamoo12340, and this is my little corner of GitHub. Here you'll fin
 Check out some of my other apps below:
 AI AHK Writer and Basic Game Dash -- https://ps99-ai-game-hub-by-milamoo12340.base44.app
 Ps99 Gamer Hub (still in development) -- https://milamoos-ps99-performance-hub.base44.app
-Threat Guard -- [https://threat-guard-pc-protection.base44.app](https://threat-guard-pc-protection-milamoo12340.base44.app) 
+Threat Guard -- [https://threat-guard-pc-protection.base44.app](https://threat-guard-pc-protection-milamoo12340.base44.app)
 PC / IP Vulnerability Scanner -- https://net-watch-scan.base44.app
 AHK AI Macro Writer App -- https://ahk-macro-maestro-2342735d.base44.app
 OSRS Hub Companion App -- https://osrs-companion-app-milamoo12340.base44.app
@@ -23,7 +23,7 @@ Vorai, A Special Test Project (integrates CIA declassifed techniques to integrat
 Quick Solve Maths Homework -- https://ai-problem-solver.base44.app
 
 
-![Github Sponsors](https://github.com/sponsors/Milamoo12340?style=for-the-badge&logo=blue&logoColor=purple&logoSize=auto&labelColor=hotpink&color=lime))
+![Github Sponsors]("https://github.com/sponsors/Milamoo12340?style=for-the-badge&logo=blue&logoColor=purple&logoSize=auto&labelColor=hotpink&color=lime")
 
 <Embed
   html={false}
